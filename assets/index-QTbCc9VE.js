@@ -41,7 +41,7 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
     hover:shadow-lg
     hover:bg-amber-300
     active:scale-95
-  `,children:`Contact Me →`})]})]})]})]}),tr=()=>{let[e,t]=(0,_.useState)(!1);return(0,j.jsxs)(`nav`,{className:`fixed w-full z-50 relative py-4 px-8\r
+  `,children:`Contact Me →`})]})]})]})]}),tr=()=>{let[e,t]=(0,_.useState)(!1);return(0,j.jsxs)(`nav`,{className:`fixed sticky top-0 z-50w-full z-50 relative py-4 px-8\r
       bg-[#0a0f12]\r
       border-b border-orange-300/10\r
       shadow-[0_4px_24px_rgba(251,146,60,0.06)]\r
@@ -84,4 +84,4 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
     hover:shadow-lg\r
     hover:bg-amber-300\r
     active:scale-95\r
-  `,children:`Contact Me →`})]})]}),(0,j.jsxs)(`div`,{className:`bn-right relative z-[2] flex-shrink-0`,children:[(0,j.jsx)(`div`,{className:`bn-ring-cw absolute inset-[-10px] rounded-full border-2 border-dashed border-amber-400 opacity-70`}),(0,j.jsx)(`div`,{className:`bn-ring-ccw absolute inset-[-22px] rounded-full border border-white/30`}),(0,j.jsx)(`img`,{src:t,alt:e,className:`w-[140px] h-[140px] sm:w-[180px] sm:h-[180px] md:w-[220px] md:h-[220px] rounded-full object-cover object-top border-[5px] border-white/15 block`})]})]})})};(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(Mn,{children:(0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(()=>(0,j.jsxs)(`div`,{children:[(0,j.jsx)(tr,{}),(0,j.jsx)(Sr,{}),(0,j.jsx)(`div`,{className:`container mx-auto`,children:(0,j.jsx)(er,{})}),(0,j.jsx)(vr,{}),(0,j.jsx)(Wt,{children:(0,j.jsx)(Ht,{path:`/`,element:(0,j.jsx)(er,{})})})]}),{})})}));
+  `,children:`Contact Me →`})]})]}),(0,j.jsxs)(`div`,{className:`bn-right relative z-[2] flex-shrink-0`,children:[(0,j.jsx)(`div`,{className:`bn-ring-cw absolute inset-[-10px] rounded-full border-2 border-dashed border-amber-400 opacity-70`}),(0,j.jsx)(`div`,{className:`bn-ring-ccw absolute inset-[-22px] rounded-full border border-white/30`}),(0,j.jsx)(`img`,{src:t,alt:e,className:`w-[140px] h-[140px] sm:w-[180px] sm:h-[180px] md:w-[220px] md:h-[220px] rounded-full object-cover object-top border-[5px] border-white/15 block`})]})]})})},Cr=()=>(0,j.jsx)(`div`,{children:`Skiils`});(0,v.createRoot)(document.getElementById(`root`)).render((0,j.jsx)(Mn,{children:(0,j.jsx)(_.StrictMode,{children:(0,j.jsx)(()=>(0,j.jsxs)(`div`,{children:[(0,j.jsx)(tr,{}),(0,j.jsx)(Sr,{}),(0,j.jsxs)(`div`,{className:`container mx-auto`,children:[(0,j.jsx)(er,{}),(0,j.jsx)(Cr,{})]}),(0,j.jsx)(vr,{}),(0,j.jsx)(Wt,{children:(0,j.jsx)(Ht,{path:`/`,element:(0,j.jsx)(er,{})})})]}),{})})}));
